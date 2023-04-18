@@ -1,0 +1,36 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    padding: 1em;
+    font-size: 30pt;
+    color: white;
+   
+
+}
+
+nav{
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 1em;
+}   
+
+
+main{
+    background-color: darkblue;
+    padding: 1em;
+    text-align: justify;
+    color: white;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    
+}
+aside{
+    background-color: rgb(117, 167, 67);
+    margin-left: 20px;
+ 
+}
+footer{
+    background-color: green;
+    color: white;
+}
