@@ -1,0 +1,60 @@
+.part1 h2 {
+    color: red;
+}
+
+.part1 p {
+    background: #000;
+    display: block;
+    color: white;
+}
+
+.part2 h2 {
+    color: green;
+}
+
+.part2 p {
+    background: darkred;
+    display: block;
+    color: green;
+}
+
+.part3 p {
+    color: green;
+}
+
+.part4 p {
+    color: green;
+
+}
+
+.black p {
+
+    color: black;
+}
+
+.csym019{
+background-color: aqua;
+color: black;
+width: 50%;
+float: left;
+}
+
+.csym015{
+background-color: yellow;
+color: black;
+width: 50%;
+float: right;
+}
+.csym020{
+    background-color: green;
+    color: black;
+    width: 50%;
+    float: left;
+    }
+    
+.csym017{
+    background-color: blueviolet;
+    color: black;
+    width: 50%;
+    float: right;
+    }
